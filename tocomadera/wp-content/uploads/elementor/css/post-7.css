@@ -1,0 +1,52 @@
+.elementor-kit-7{--e-global-color-primary:#5A5E55;--e-global-color-secondary:#4D4D4D;--e-global-color-text:#272626;--e-global-color-accent:#F4C596;--e-global-color-d7e3a00:#C5C5C5;--e-global-color-ccb5096:#E2DCD8;--e-global-color-38aed92:#FFD5D757;--e-global-typography-primary-font-family:"Gotham Bold";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Gotham book";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Gotham book";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Gotham book";--e-global-typography-accent-font-weight:500;--e-global-typography-0948bb2-font-family:"Gotham Bold";--e-global-typography-0948bb2-font-size:63px;--e-global-typography-0293ed6-font-family:"Gotham Medium";--e-global-typography-0293ed6-font-size:35px;--e-global-typography-473f669-font-family:"Gotham book";--e-global-typography-473f669-font-size:14px;--e-global-typography-473f669-font-weight:normal;--e-global-typography-473f669-font-style:normal;--e-global-typography-dedbaf3-font-family:"Gotham Medium";--e-global-typography-dedbaf3-font-weight:500;--e-global-typography-dedbaf3-text-transform:uppercase;--e-global-typography-fc50df5-font-family:"Gotham Light";--e-global-typography-fb3a5dd-font-family:"Gotham Medium";--e-global-typography-fb3a5dd-font-size:26px;--e-global-typography-fb3a5dd-font-weight:400;--e-global-typography-fb3a5dd-text-transform:uppercase;--e-global-typography-5970837-font-family:"Gotham book";--e-global-typography-5970837-font-size:14px;--e-global-typography-5970837-font-weight:normal;--e-global-typography-5970837-text-transform:uppercase;--e-global-typography-5970837-font-style:normal;--e-global-typography-5747fb0-font-family:"Gotham Medium";--e-global-typography-5747fb0-font-size:37px;--e-global-typography-5747fb0-font-weight:300;--e-global-typography-5747fb0-text-transform:uppercase;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-kit-7{--e-global-typography-0948bb2-font-size:24px;--e-global-typography-0293ed6-font-size:28px;--e-global-typography-473f669-font-size:13px;--e-global-typography-fb3a5dd-font-size:19px;--e-global-typography-5970837-font-size:13px;--e-global-typography-5747fb0-font-size:19px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham Bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/09/gothambold-webfont.eot');
+	src: url('../../2021/09/gothambold-webfont.eot') format('embedded-opentype'),
+		url('../../2021/09/gothambold-webfont.woff2') format('woff2'),
+		url('../../2021/09/gothambold-webfont.woff') format('woff'),
+		url('../../2021/09/GothamBold.ttf') format('truetype'),
+		url('../../2021/09/gothambold-webfont.svg') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham book';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/09/gothambook-webfont-1.eot');
+	src: url('../../2021/09/gothambook-webfont-1.eot') format('embedded-opentype'),
+		url('../../2021/09/gothambook-webfont-1.woff2') format('woff2'),
+		url('../../2021/09/gothambook-webfont-1.woff') format('woff'),
+		url('../../2021/09/GothamBook-1.ttf') format('truetype'),
+		url('../../2021/09/gothambook-webfont-1.svg') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/09/gothammedium-webfont.eot');
+	src: url('../../2021/09/gothammedium-webfont.eot') format('embedded-opentype'),
+		url('../../2021/09/gothammedium-webfont.woff2') format('woff2'),
+		url('../../2021/09/gothammedium-webfont.woff') format('woff'),
+		url('../../2021/09/GothamMedium.ttf') format('truetype'),
+		url('../../2021/09/gothammedium-webfont.svg') format('svg');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/09/gothamlight-webfont.eot');
+	src: url('../../2021/09/gothamlight-webfont.eot') format('embedded-opentype'),
+		url('../../2021/09/gothamlight-webfont.woff2') format('woff2'),
+		url('../../2021/09/gothamlight-webfont.woff') format('woff'),
+		url('../../2021/09/GothamLight.ttf') format('truetype'),
+		url('../../2021/09/gothamlight-webfont.svg') format('svg');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,13 @@
+.elementor-343 .elementor-element.elementor-element-30a782e > .elementor-container{max-width:1200px;}.elementor-343 .elementor-element.elementor-element-9db6370 .elementor-heading-title{font-family:"Gotham Light", Sans-serif;font-size:21px;font-weight:600;text-transform:uppercase;}.elementor-343 .elementor-element.elementor-element-30a782e:not(.elementor-motion-effects-element-type-background), .elementor-343 .elementor-element.elementor-element-30a782e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-d7e3a00 );}.elementor-343 .elementor-element.elementor-element-30a782e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:2% 0% 2% 0%;}.elementor-343 .elementor-element.elementor-element-30a782e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-343 .elementor-element.elementor-element-d2550cf > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-343 .elementor-element.elementor-element-6e9c6f8 iframe{height:40vh;filter:brightness( 100% ) contrast( 95% ) saturate( 0% ) blur( 0px ) hue-rotate( 0deg );transition-duration:2s;}.elementor-343 .elementor-element.elementor-element-6e9c6f8:hover iframe{filter:brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-343 .elementor-element.elementor-element-8aadbe9 > .elementor-element-populated{padding:0px 0px 0px 0px;}@media(max-width:767px){.elementor-343 .elementor-element.elementor-element-9db6370{text-align:center;}.elementor-343 .elementor-element.elementor-element-9db6370 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/09/gothamlight-webfont.eot');
+	src: url('../../2021/09/gothamlight-webfont.eot') format('embedded-opentype'),
+		url('../../2021/09/gothamlight-webfont.woff2') format('woff2'),
+		url('../../2021/09/gothamlight-webfont.woff') format('woff'),
+		url('../../2021/09/GothamLight.ttf') format('truetype'),
+		url('../../2021/09/gothamlight-webfont.svg') format('svg');
+}
+/* End Custom Fonts CSS */
